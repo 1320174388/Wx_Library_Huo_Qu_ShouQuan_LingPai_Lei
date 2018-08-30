@@ -11,8 +11,8 @@ include('../library/AccessTokenRequest.php');
 
 // 获取success_token
 $accessTokenArr = AccessTokenRequest::wxRequest(
-    'wx211a9e456c091db4',
-    '43be5e180ff000c6089c9765797c2096',
+    'wx6516385261fa963a',
+    'dc9823245780a506e679a121bb535e0b',
     './project_access_token/'
 );
 
